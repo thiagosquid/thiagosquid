@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### I am Thiago Gomes
 
-- 🔭 I'm a Civil Engineer and programming student since 2021/April.
+- 🔭 I'm a Civil Engineer since 2015/December and programming student since 2021/April.
 
 - 🌱 I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
 
-- 🏄🏻⚽ I love surf and soccer.
+- 🏄🏻⚽ I like surf and soccer.
 
 - 👯 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful and to learn otherthings.
 
