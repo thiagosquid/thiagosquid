@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - TEste de git
 -->
 
-# Hello! 👋
+# Hello, folks! 👋
 
 ### I am Thiago Gomes
 
