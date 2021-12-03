@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
 
-- 🏄🏻⚽ I like surf and soccer.
+- 🏄🏻⚽ I like surf, bassguitar and soccer.
 
 - 👯 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful and to learn otherthings.
 
@@ -47,8 +47,11 @@ Here are some ideas to get you started:
 ![CSS_Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS_Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL_Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-<!--![Cpp_Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
--->
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+
 ## Some of my Github Stats
 ![thiagosquid github stats](https://github-readme-stats.vercel.app/api?username=thiagosquid&show_icons=true)
 
