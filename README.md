@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I am Thiago Gomes
 
-- 🔭 I'm a Civil Engineer and Java Developer.
+- 🔭 I'm a Backend Java Developer.
 
 - 🌱 I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
 
