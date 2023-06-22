@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 
 ### I am Thiago Gomes
 
-- 🔭 I'm a Backend Java Developer.
+- 🔭 I'm a Java Backend Developer.
 
-- 🌱 I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
+- 🌱 I'm constantly learning new things and creating my own personal projects to practice everything I learned.
 
 - 🏄🏻⚽ I like surf, bassguitar and soccer.
-
-- 👯 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful and to learn otherthings.
 
 - 📫 How to reach me: use the badges below 😃
 
